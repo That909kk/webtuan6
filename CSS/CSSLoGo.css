@@ -42,7 +42,12 @@
   align-items: center;
 }
 
-
 #link-products {
   margin-top: 55px;
+}
+#asd {
+  display: flex;
+  justify-content: space-between;
+  width: 1430px;
+  margin-top: 20px;
 }
