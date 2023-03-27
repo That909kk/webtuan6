@@ -45,3 +45,19 @@
 #link-products {
   margin-top: 55px;
 }
+#reviews {
+  display: flex;
+  margin-top: 50px;
+  border-bottom: #f3f4f6 2px solid;
+  height: 350px;
+}
+#review_title {
+  display: flex;
+  width: 1150px;
+}
+#review_title_1 {
+  display: flex;
+  justify-content: space-between;
+  width: 1150px;
+  align-items: center;
+}
